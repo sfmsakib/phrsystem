@@ -1,0 +1,106 @@
+
+bfody {
+  background:#2c3e50; /*From http://flatuicolors.com/ */
+}
+
+.forms {
+  position:relative;
+  /*width:460px;
+  height:450px;
+  margin:50px auto;*/
+  text-align:left;
+  background:#ecf0f1;
+  padding:40px;
+  -webkit-border-radius:5px 5px 5px 5px;
+     -moz-border-radius:5px 5px 5px 5px;
+          border-radius:5px 5px 5px 5px;
+  -webkit-box-shadow: 0px 1px 0px #ad392d, inset 0px 1px 0px white;
+     -moz-box-shadow: 0px 1px 0px #ad392d, inset 0px 1px 0px white;
+          box-shadow: 0px 1px 0px #ad392d, inset 0px 1px 0px white;
+  box-shadow: 0px 0px 5px;
+}
+.padd{
+  padding-left: 20px;
+}
+.h4s {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:2em;
+  font-weight:300;
+  margin-bottom:25px;
+  color:#7f8c8d;
+  text-shadow:1px 1px 0px white;
+}
+
+.inputs {
+  display:block;
+  width:415px;
+  padding:14px;
+  -webkit-border-radius:6px;
+     -moz-border-radius:6px;
+          border-radius:6px;
+  border:0;
+  margin-bottom:12px;
+  color:#7f8c8d;
+  font-weight:600;
+  font-size:16px;
+}
+.inputselect {
+  display:block;
+  width:315px;
+  padding-left: 9px;
+  -webkit-border-radius:6px;
+     -moz-border-radius:6px;
+          border-radius:6px;
+  border:0;
+  margin-bottom:12px;
+  color:#7f8c8d;
+  font-weight:600;
+  font-size:16px;
+}
+
+.inputs:focus {
+  background:#fafafa;
+}
+
+
+.lis {
+  padding-top: 23px;
+  padding-left: 50px;
+  position: ;
+  right:40px;
+  bottom:70px;
+  list-style:none;
+}
+.linotdoctor {
+  padding-top: 25px;
+  padding-left: 0px;
+  position: absolute;
+  right:190px;
+  top:50px;
+  list-style:none;
+}
+.as, a:hover {
+  text-decoration:none;
+  color:#7f8c8d;
+  font-weight:400;
+  text-shadow:1px 1px 0px white;
+  -webkit-transition: all .3s ease-in-out;
+     -moz-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
+}
+
+.buttons {
+  position:relative;
+  float:left;
+  width:145px;
+  margin-top:10px;
+  background:#3498db;
+  color:#fff;
+  font-weight:400;
+  text-shadow:1px 1px 0px #2d7baf;
+  box-shadow:0px 3px 0px #2d7baf;
+  -webkit-transition: all .3s ease-in-out;
+     -moz-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
+}
+
